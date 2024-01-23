@@ -1,6 +1,6 @@
 import requests
 
-url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyDzlUyv9sIbNu3zeQ-n495Stbg0l2rKmHg'
+url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key='
 
 def bard(inp):
     
